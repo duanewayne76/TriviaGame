@@ -1,3 +1,6 @@
+
+//Disclaimer: I had to use an online tutorial in hopes to be able to understand more about the process...I'm lost and yes, I have a tutor.
+
 $('#start').on('click', function () {
 
     game.start();

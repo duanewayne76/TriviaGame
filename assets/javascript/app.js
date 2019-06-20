@@ -93,7 +93,7 @@ var game = {
         }
 
         $('#subwrapper').append('<br><button id="end">Done</button>');
-    }
+    },
         done: function () {
         $.each($('input[name="question-0]":checked')), function () {
             if ($(this).val() == questions[0].correctAnswer) {
@@ -173,7 +173,6 @@ var game = {
     result: function () {
         clearInterval(timer);
         $('#subwrapper h2').remove();
-
         $('#subwrapper').html("<h2>All done!</h2>");
         $('subwrapper').append("<h3>Correct Answers: " + this.correct + "</h3>");
         $('subwrapper').append("<h3>Incorrect Answers: " + this.incorrect + "</h3>");
@@ -183,7 +182,7 @@ var game = {
 
 
 
-
+}
 // var time = 5;
 // var timerId = setInterval(function () {
 //     time--;

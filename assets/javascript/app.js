@@ -26,27 +26,27 @@ var questions = [
     },
     {
         question: "What artist sang the 1986 song “Danger Zone” from Top Gun?",
-        answers: ["Tiffany", "Kenny Loggin", "Toy Story", "The Lion King"],
+        answers: ["Tiffany", "Kenny Loggin", "Madonna", "George Michael"],
         correctAnswer: "Kenny Loggins"
     },
     {
         question: "Which 1980s theme song was recorded in just 3 hours?",
-        answers: ["Don’t You (Forget About Me)", "Monsters Inc", "Toy Story", "The Lion King"],
+        answers: ["Don’t You (Forget About Me)", "Fame", "Eye of the Tiger", "Take on Me"],
         correctAnswer: "Don’t You (Forget About Me)"
     },
     {
         question: "Which 1980s theme song inspired its own separate film?",
-        answers: ["A Bug's Life", "Monsters Inc", "Toy Story", "Eye of the Tiger"],
+        answers: ["Don’t You (Forget About Me)", "Fame", "Take on Me", "Eye of the Tiger"],
         correctAnswer: "Eye of the Tiger"
     },
     {
         question: "Which 1980s theme song was inspired by a commercial jingle?",
-        answers: ["A Bug's Life", "Monsters Inc", "Ghostbusters", "The Lion King"],
+        answers: ["Don’t You (Forget About Me)", "Fame", "Ghostbusters", "Eye of the Tiger"],
         correctAnswer: "Ghostbusters"
     },
     {
         question: "What is the name of the lead character in The Secret of NIMH?",
-        answers: ["Mrs. Brisby", "Monsters Inc", "Toy Story", "The Lion King"],
+        answers: ["Mrs. Brisby", "Mr. Ages", "Auntie Shrew", "Nicodemus"],
         correctAnswer: "Mrs. Brisby"
     },
     {
@@ -56,7 +56,7 @@ var questions = [
     },
     {
         question: 'Which 80s animated movie’s tagline was "Beyond good. Beyond evil. Beyond your wildest imagination."?',
-        answers: ["The Secret of NIMH", "The Transformers: The Movie", "Toy Story", "The Lion King"],
+        answers: ["The Secret of NIMH", "The Transformers: The Movie", "Who Framed Roger Rabbit", "The Land Before Time"],
         correctAnswer: "The Transformers: The Movie"
 
     }];
